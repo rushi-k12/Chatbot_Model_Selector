@@ -1,0 +1,24 @@
+{
+  "models": [
+    {
+      "name": "gpt2",
+      "path": "gpt2"
+    },
+    {
+      "name": "gpt2-medium",
+      "path": "gpt2-medium"
+    },
+    {
+      "name": "bert-base-uncased",
+      "path": "bert-base-uncased"
+    },
+    {
+      "name": "roberta-base",
+      "path": "roberta-base"
+    },
+    {
+      "name": "distilbert-base-uncased",
+      "path": "distilbert-base-uncased"
+    }
+  ]
+}
